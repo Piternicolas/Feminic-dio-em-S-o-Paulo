@@ -100,7 +100,11 @@ No DataFrame há 4 tipos de cores registradas e 2 tipos que não identificam a c
 ![meses fem](https://user-images.githubusercontent.com/124289899/228252799-056810cd-1bf1-4958-b666-b77d13c11cb2.png)
 ---
 * Desde que começo a valer a lei houveram no mínimo 2 registros de feminicídio por mês.
-* **2015** teve o mês de **novembro** como o pior, com **8 casos**.
-* Já em **2016** teve no mínimo 3 casos por mês e teve o mês de **maio** como o pior, com **8 casos**. 
-* **2017** já começa o ano tendo o mês de **janeiro** como o pior com **18 casos** e com no mínimo **5 casos** por mês durante o ano.
-* **2018** tem o mês de **maio** como o pior com **16 casos** e com no mínimo **5 casos** por mês durante o ano.
+* **2015** teve **novembro** como o pior mês com **8 casos** e no ano tendo no mínimo **2 casos** por mês.
+* **2016** teve **maio** como o pior mês com **8 casos** e no ano tendo no mínimo **3 casos** por mês. 
+* **2017** teve **janeiro** como o pior mês com **18 casos** e no ano tendo no mínimo **5 casos** por mês.
+* **2018** teve **maio** e **outubro** como os piores meses com **16 casos** e no ano todo mês tendo no mínimo **5 casos**.
+* **2019** teve o pior mês de todos desde que começou a lei, em **dezembro** chegando a **27 casos** e tendo o mínimo de **5 casos** por mês durante o ano.
+* **2020** teve **março** como o pior mês com **21 casos** e no ano tendo no mínimo **8 casos** por mês.
+* **2021** teve **maio** como o pior mês com **26 casos** e no ano tendo no mínimo **6 casos** por mês.
+* **2022** teve **outubro** como o pior mês com **22 casos** e no ano tendo no mínimo **9 casos** por mês.
