@@ -95,7 +95,7 @@ No DataFrame há 4 tipos de cores registradas e 2 tipos que não identificam a c
 ---
 ![year fem](https://user-images.githubusercontent.com/124289899/228252276-56e76c9d-1fda-4c9f-a4f5-026a917b1b52.png)
 * Logo de cara vemos que o ano de **2022** foi o ano com mais registros de feminicídio, **193 assassinatos**.
-* Desde quando começou valer a lei os números só cresceram ao decorrer dos anos, tendo uma uma **queda** nos anos de **2020** e **2021** porém voltando a **subir** em **2022** e atingindo o número **máximo** de casos por ano.
+* Desde quando começou valer a lei os números só cresceram ao decorrer dos anos, tendo uma uma **queda** nos anos de **2020** e **2021** porém voltando a **subir** em **2022** e atingindo o número **máximo** sendo o ano com mais casos de **feminicídio**.
 ---
 ![meses fem](https://user-images.githubusercontent.com/124289899/228252799-056810cd-1bf1-4958-b666-b77d13c11cb2.png)
 ---
