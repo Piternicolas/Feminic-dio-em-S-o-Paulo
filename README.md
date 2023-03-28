@@ -79,4 +79,23 @@ No DataFrame há 4 tipos de cores registradas e 2 tipos que não identificam a c
 ---
 
 # Locais dos crimes
-* 
+* Nos registros das **descrições dos locais** há **19** tipos descrições diferentes, porém vou apresentar os 5 mais recorrentes
+![loc fem](https://user-images.githubusercontent.com/124289899/228243303-0eb7d2db-8d0a-4e6f-a67b-847d469f3051.png)
+* **Residência:** 66,6% dos registros.
+* **Via pública:** 21,6% dos registros.
+* **Comércio e serviços:** 2,1% dos registros.
+* **Unidade rural:** 2% dos registros.
+* **Área não ocupada:** 1,4% dos registros.
+* Logo de cara percebemos o que já era esperado, mais de 60% dos registros são de vítimas que foram assassinadas dentro de suas próprias casas.
+
+---
+
+# Feminicídio apresentado por anos
+* Como falado no começo do artigo, a **Lei do Feminicídio** começou a valer apenas em 2015. Veremos como abaixo os casos por ano.
+---
+![year fem](https://user-images.githubusercontent.com/124289899/228252276-56e76c9d-1fda-4c9f-a4f5-026a917b1b52.png)
+* Logo de cara vemos que o ano de **2022** foi o ano com mais registros de feminicídio, **193 assassinatos**.
+* Desde quando começou valer a lei os números só cresceram ao decorrer dos anos, tendo uma uma **queda** nos anos de **2020** e **2021** porém voltando a **subir** em **2022** e atingindo o número **máximo** de casos por ano.
+---
+![meses fem](https://user-images.githubusercontent.com/124289899/228252799-056810cd-1bf1-4958-b666-b77d13c11cb2.png)
+---
