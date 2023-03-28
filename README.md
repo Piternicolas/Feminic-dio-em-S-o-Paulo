@@ -99,3 +99,8 @@ No DataFrame há 4 tipos de cores registradas e 2 tipos que não identificam a c
 ---
 ![meses fem](https://user-images.githubusercontent.com/124289899/228252799-056810cd-1bf1-4958-b666-b77d13c11cb2.png)
 ---
+* Desde que começo a valer a lei houveram no mínimo 2 registros de feminicídio por mês.
+* **2015** teve o mês de **novembro** como o pior, com **8 casos**.
+* Já em **2016** teve no mínimo 3 casos por mês e teve o mês de **maio** como o pior, com **8 casos**. 
+* **2017** já começa o ano tendo o mês de **janeiro** como o pior com **18 casos** e com no mínimo **5 casos** por mês durante o ano.
+* **2018** tem o mês de **maio** como o pior com **16 casos** e com no mínimo **5 casos** por mês durante o ano.
