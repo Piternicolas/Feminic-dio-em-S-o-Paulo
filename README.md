@@ -52,7 +52,7 @@ No DataFrame há 4 tipos de cores registradas e 2 tipos que não identificam a c
 ---
 
 # Municípios com mais casos
-* No DataFrame há registros em **264** municípios de São Paulo.
+* No DataFrame há registros em **264** municípios porém abaixo vou plotar apenas o 5 com mais casos.
 ![muni sp](https://user-images.githubusercontent.com/124289899/228096964-08a23401-6ec9-49a8-bc73-dd6f6797f117.png)
 * **São Paulo (Capital):** 22% dos registros.
 * **Campinas:** 4,8% dos registros.
@@ -60,3 +60,23 @@ No DataFrame há 4 tipos de cores registradas e 2 tipos que não identificam a c
 * **Osasco:** 2,1% dos registros.
 * **Sorocaba:** 1,6% dos registros.
 * Na **Capital** de **São Paulo** e as cidades a sua volta é onde se concentram os maiores números de casos de feminicídio, ou mais precisamente no **sudeste** do estado.
+![image](https://user-images.githubusercontent.com/124289899/228226667-270e80e7-d80f-43b9-bb8b-8e525c519a52.png)
+
+---
+
+# Profissões das vítimas
+* Na coluna referente a **profissão** das vítimas **45,5%** das entradas não estão especificadas então abaixo vou apresentar o gráfico das 5 profissões com mais registros de feminicídio. Há **108** tipos de profissões diferentes.
+
+![prof vit](https://user-images.githubusercontent.com/124289899/228227679-bdcfe638-14b0-4584-8202-afd4266392a7.png)
+
+* **Prendas domésticas:** 10,2% dos registros.
+* **Estudante:** 6,8% dos registros.
+* **Desempregada:** 2,1% dos registros.
+* **Aposentada:** 2% dos registros.
+* **Empregada doméstica:** 1,7% dos registros.
+* Essas são as principais profissões que mais sofreram com o feminicídio em São Paulo.
+
+---
+
+# Locais dos crimes
+* 
