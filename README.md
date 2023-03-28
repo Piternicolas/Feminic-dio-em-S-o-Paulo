@@ -6,10 +6,6 @@
 
 ## O Brasil em geral é um país muito violento, em 2022 ocupava o 8° lugar no ranking mundial de países mais violentos do mundo, principalmente quando se trata de violência contra a mulher, que em 2021 ocupava o 5° lugar no ranking mundial. Infelizmente se tornou comum vermos notícias na TV e na internet, em qualquer horário do dia sobre violência e assasinato contra as mulheres, nessa artigo irei apresentar alguns números de casos de feminicídio no estado de São Paulo, que por incrível que pareça é o estado com a menor taxa de feminicídio no Brasil, porém vendo o estado com menos casos de feminicídio já podemos ter noção de como está no resto do país.
 ---
-* ### DADOS: http://www.ssp.sp.gov.br/transparenciassp/Consulta.aspx
-* ### Bibliografia no final do artigo.
-* ### O dados foram trabalhos em um jupiter nootebook no google colab, anexado a este artigo. https://colab.research.google.com/drive/1S_B7CwPzsvW1z6y8ULo3salQNdmBSoWN#scrollTo=EdUpefpNuCu6
----
 ![4479812](https://user-images.githubusercontent.com/124289899/228097743-2bece360-48d8-4c90-8e43-9ac772194468.jpg)
 ## O que é a Lei do Feminicídio?
 A Lei **nº 13.104/2015** torna o **feminicídio** um homicídio qualificado e o coloca na lista de **crimes hediondos**, com penas mais altas, de 12 a 30 anos.
@@ -121,6 +117,21 @@ Lembrando que há 1.047 registros de feminicídio no DataFrame.
 * **Cor:** **Branca** com 602 casos (57,5% dos registros).
 * **Idades:** Entre **18** e **45** anos com 780 casos (74,5% dos registros)
 * **Ano:** **2022** com 193 casos.
+---
+Acima vemos onde estão concentrados os números mais altos dos casos de **feminicídio**, vimos também pelo gráfico de municípios que os casos se concentram mais no **sudeste** do estado. Já sabemos que a violência contra a mulher normalmente ocorre dentro de suas próprias casas e os dados acima só confirmam isso, também mostrando que a profissão mais afetada está relacionada a serviços de casa. Há uma contração maior de casos envolvendo mulheres **brancas** mas nenhuma cor escapa, assim como nenhuma idade, vimos que a idade mínima é de apenas **1 ano** e a idade máxima de **88 anos**, é um absurdo ver que há **4,7%** de registros com mulheres abaixo de **18 anos** de idade, crianças e a adolescentes, qual a motivação para um assassinato cometido contra uma criança ou uma idosa, **não há razões validas para nenhum tipo de assassinato**.
+Tendo esses dados levantados do estado de **São Paulo** que é considerado o estado com a **menor taxa** de feminicídio no Brasil, podemos imaginar como está o restante do país e também realça a insegurança da mulher brasileira dentro e fora de casa, em qualquer profissão e qualquer idade, é necessário penas maiores e a execução delas que é o principal, sem saídinha, sem regalias mas principalmente acredito que uma das **soluções** é uma educação focada para as crianças, tanto para os meninos aprenderem desde cedo a respeitar o próximo, saber ouvir não e gerir suas emoções pessoais, quanto para as meninas a desde cedo saberem respeitar a si mesmas e identificar qualquer comportamento anormal, inadequado ou violento. Creio que devem existir projetos focados nesse tipo de educação mas principalmente a educação deve vir de casa, dos pais e responsáveis devendo ter um papel mais ativo e com mais importância na vida das crianças.
+---
+### Blibliografia:
+* https://www.cartacapital.com.br/justica/brasil-registra-pico-de-feminicidios-em-2022-com-uma-vitima-a-cada-6-horas/
+* https://portal.unit.br/blog/noticias/brasil-ocupa-o-5o-lugar-no-ranking-da-violencia-contra-a-mulher/
+* https://oglobo.globo.com/brasil/noticia/2022/06/apesar-de-queda-em-mortes-violentas-brasil-e-oitavo-pais-mais-letal-do-mundo.ghtml
+* https://www.cartacapital.com.br/justica/brasil-registra-pico-de-feminicidios-em-2022-com-uma-vitima-a-cada-6-horas/
+* https://www.saopaulo.sp.leg.br/mulheres/legislacao/lei-do-feminicidio/#:~:text=A%20Lei%20n%C2%BA%2013.104%2F2015,condi%C3%A7%C3%A3o%20de%20mulher%20da%20v%C3%ADtima.
+* https://ibdfam.org.br/noticias/10564/Oito+anos+da+Lei+do+Feminic%C3%ADdio%3A+para+especialista%2C+norma+tem+significado+simb%C3%B3lico+e+n%C3%A3o+necessariamente+previne+a+pr%C3%A1tica#:~:text=Promulgada%20h%C3%A1%20oito%20anos%2C%20em,circunst%C3%A2ncia%20qualificadora%20de%20crime%20hediondo.
 
-Acima vemos onde estão concentrados os números mais altos dos casos de **feminicídio**, vimos também pelo gráfico de municípios que os casos se concentram mais no **sudeste** do estado. Já sabemos que a violência contra a mulher normalmente ocorre dentro de suas próprias casas e os dados acima só confirmam isso, também mostrando que a profissão mais afetada também está relacionada a serviços de casa. Há uma contração maior de casos envolvendo mulheres **brancas** mas nenhuma cor escapa, assim como nenhuma idade, temos nesse DataFrame a idade mínima de apenas **1 ano** e a idade máxima de **88 anos**, é um absurdo ver que há **4,7%** de registros com mulheres abaixo de **18 anos** de idade, crianças e a adolescentes, qual a motivação para um assassinato cometido contra uma criança ou uma idosa, **não há razões validas para nenhum tipo de assassinato**.
-Tendo esses dados levantados do estado de **São Paulo** que é considerado o estado com a **menor taxa** de feminicídio no Brasil, podemos imaginar como está o restante do país e também realça a insegurança da mulher brasileira dentro e fora de casa, em qualquer profissão e qualquer idade, é necessário penas maiores e a execução delas que é o principal, sem saídinha, sem regalias mas principalmente acredito que uma das **soluções** é uma educação focada para as crianças, tanto para os meninos aprenderem desde cedo a respeitar o próximo, saber ouvir não e gerir suas emoções pessoais, quanto para as meninas a desde cedo saberem respeitar a si mesmas e identificar qualquer comportamento anormal, inadequado ou violento. Creio que devem existir projetos focados nesse tipo de educação mas também principalmente a educação deve vir de casa, dos pais ou responsáveis devendo ter um papel ativo com mais importância na vida das crianças.
+* #### DADOS: http://www.ssp.sp.gov.br/transparenciassp/Consulta.aspx
+* #### O dados foram trabalhos em um jupiter nootebook no google colab, anexado a este artigo: https://colab.research.google.com/drive/1S_B7CwPzsvW1z6y8ULo3salQNdmBSoWN#scrollTo=EdUpefpNuCu6
+---
+### Feito e apresentado por *Piter Nicolas*, links para contato abaixo:
+* **linkedin:** https://www.linkedin.com/in/piternicolas/
+* **instagram:** https://instagram.com/pit.nlima/
