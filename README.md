@@ -10,6 +10,7 @@
 * ### Bibliografia no final do artigo.
 * ### O dados foram trabalhos em um jupiter nootebook no google colab, anexado a este artigo. https://colab.research.google.com/drive/1S_B7CwPzsvW1z6y8ULo3salQNdmBSoWN#scrollTo=EdUpefpNuCu6
 ---
+![4479812](https://user-images.githubusercontent.com/124289899/228097743-2bece360-48d8-4c90-8e43-9ac772194468.jpg)
 ## O que é a Lei do Feminicídio?
 A Lei **nº 13.104/2015** torna o **feminicídio** um homicídio qualificado e o coloca na lista de **crimes hediondos**, com penas mais altas, de 12 a 30 anos.
 É **considerado feminicídio** quando o assassinato envolve **violência doméstica** e **familiar**, **menosprezo** ou **discriminação à condição de mulher da vítima.**
@@ -50,3 +51,12 @@ No DataFrame há 4 tipos de cores registradas e 2 tipos que não identificam a c
 
 ---
 
+# Municípios com mais casos
+* No DataFrame há registros em **264** municípios de São Paulo.
+![muni sp](https://user-images.githubusercontent.com/124289899/228096964-08a23401-6ec9-49a8-bc73-dd6f6797f117.png)
+* **São Paulo (Capital):** 22% dos registros.
+* **Campinas:** 4,8% dos registros.
+* **Guarulhos:** 2,7% dos registros.
+* **Osasco:** 2,1% dos registros.
+* **Sorocaba:** 1,6% dos registros.
+* Na **Capital** de **São Paulo** e as cidades a sua volta é onde se concentram os maiores números de casos de feminicídio, ou mais precisamente no **sudeste** do estado.
