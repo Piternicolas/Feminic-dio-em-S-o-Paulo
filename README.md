@@ -120,3 +120,6 @@ Lembrando que há 1.047 registros de feminicídio no DataFrame.
 * **Profissão:** **Prendas domésticas** com 107 casos (10,2% dos registros).
 * **Cor:** **Branca** com 602 casos (57,5% dos registros).
 * **Idades:** Entre **18** e **45** anos com 780 casos (74,5% dos registros)
+* **Ano:** **2022** com 193 casos.
+
+Acima vemos onde estão concentrados os números mais altos dos casos de **feminicídio**, vimos também pelo gráfico de municípios que os casos se concentram mais no **sudeste** do estado. Já sabemos que a violência contra a mulher normalmente ocorre dentro de suas próprias casas e os dados acima só confirmam isso, também mostrando que a profissão mais afetada também está relacionada a serviços de casa. Há uma contração maior de casos envolvendo mulheres **brancas** mas nenhuma cor escapa, assim como nenhuma idade, temos nesse DataFrame a idade mínima de apenas **1 ano** e a idade máxima de **88 anos**, é um absurdo ver que há **4,7%** de registros com mulheres abaixo de **18 anos** de idade, crianças e a adolescentes
