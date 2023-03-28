@@ -32,7 +32,7 @@ A lei do feminicídio foi promulgada em **março de 2015** e é **muito importan
 
 ![hist idades](https://user-images.githubusercontent.com/124289899/228092850-14bb45b5-7b63-4e55-adff-5d51e2a7d7a1.png)
 
-É possível notar que há uma concentração maior entre **20** e **45** anos de idade. Também é notável que há casos de **crianças** e **idosas** assassinadas mostrando independente da idade nenhuma mulher está segura.
+É possível notar que há uma concentração maior entre **18** e **45** anos de idade. Também é notável que há casos de **crianças** e **idosas** assassinadas mostrando independente da idade nenhuma mulher está segura.
 
 ---
 
@@ -108,3 +108,15 @@ No DataFrame há 4 tipos de cores registradas e 2 tipos que não identificam a c
 * **2020** teve **março** como o pior mês com **21 casos** e no ano tendo no mínimo **8 casos** por mês.
 * **2021** teve **maio** como o pior mês com **26 casos** e no ano tendo no mínimo **6 casos** por mês.
 * **2022** teve **outubro** como o pior mês com **22 casos** e no ano tendo no mínimo **9 casos** por mês.
+* ### Segundo esse DataFrame, em média ***11 mulheres por mês e 149 mulheres por ano*** são vítimas de feminicídio no estado de ***São Paulo***.
+
+---
+
+# Principais informações com maiores casos:
+Lembrando que há 1.047 registros de feminicídio no DataFrame.
+
+* **Município:** **São Paulo (Capital)** com 230 casos (22% dos registros).
+* **Local:** **Residência** com 697 casos (66,6% dos registros).
+* **Profissão:** **Prendas domésticas** com 107 casos (10,2% dos registros).
+* **Cor:** **Branca** com 602 casos (57,5% dos registros).
+* **Idades:** Entre **18** e **45** anos com 780 casos (74,5% dos registros)
